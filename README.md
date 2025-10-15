@@ -1,4 +1,4 @@
-# 🇮🇹 Energy Load Forecasting — Prophet vs SARIMAX
+# Energy Load Forecasting — Prophet vs SARIMAX
 
 An end-to-end, reproducible Jupyter Notebook that compares Facebook Prophet and SARIMAX for hourly electricity load forecasting (Italy, 2016). The notebook includes data cleaning (DST/anomaly repair), EDA, model training with an exogenous solar regressor, and side-by-side model evaluation and visualizations.
 
@@ -203,6 +203,5 @@ Full-Stack Developer | Machine Learning Engineer
 
 ---
 
-## 📝 License (suggestion)
-
+## 📝 License
 MIT
